@@ -7,5 +7,16 @@
         "whatsapp": "https://chat.whatsapp.com/Cjeivt4kyDmFx3L8QB7rFE",
         "x": "https://x.com/laravel_sn",
         "github": "https://github.com/Laravel-SN-Community"
+    },
+    {
+         "id": "galsen-dev",
+        "name": "Galsen Dev",
+        "short_description": "Renforcer la scène tech sénégalaise, connecter les développeurs, partager et offrir un soutien communautaire.",
+        "website": "https://galsen.dev/",
+        "whatsapp": "https://chat.whatsapp.com/EzigxN1N2bZBdxooqaH2Gr",
+        "x": "https://x.com/galsendev",
+        "github": "https://github.com/GalsenDev221", 
+        "discord": "https://discord.gg/CKZcKqf", 
+        "telegram": "https://t.me/s/galsendev"
     }
 ]
